@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.learn.bean.User",
+      "name": "user",
+      "type": "com.learn.bean.User"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.learn.bean.User",
+      "defaultValue": 0,
+      "name": "user.age",
+      "type": "java.lang.Integer"
+    }
+  ]
+}
